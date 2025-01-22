@@ -1,1 +1,0 @@
-- [The Moth](./the_moth.md)

@@ -1,5 +1,0 @@
-- [Humans](./humans.md)
-- [Elves](./elves.md)
-- [Dragons](./dragons.md)
-- [Bunnies](./bunnies.md)
-- [Kobolds](./kobolds.md)

@@ -1,0 +1,6 @@
+[book]
+authors = ["Calandiel"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Alyria"

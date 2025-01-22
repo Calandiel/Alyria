@@ -1,0 +1,2 @@
+- [Gods](./gods/SUMMARY.md)
+- [Individuals](./individuals/SUMMARY.md)

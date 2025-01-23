@@ -1,0 +1,4 @@
+# The Endowment of the Bunnies
+The Endowment of the Bunnies is the period of time between the recreation of [The-Flames-Of-The-Sun](../artifacts/the_flames_of_the_sun.md) and [Bathem's](../people/individuals/bathem.md) apotheosis and ascension to the [God Realm](../locations/god_realm.md).
+Bathem travelled throughout his empire, from the largest cities to the smallest manors, giving each [bunny](../races/bunnies.md) he encountered a blessing from one of his aspects.
+Over the following centuries, the unified bunny tribe which had followed Bathem would fracture into the three major tribes based on the blessing their ancestors received: [Ashfurs](), [Frostfurs]() and [Bloodfurs]().

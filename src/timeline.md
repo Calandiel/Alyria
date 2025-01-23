@@ -4,7 +4,7 @@
 `AB` - after Bathem
 
 - ~15000 BB - dragons are cursed by [The Moth](./people/gods/the_moth.md)
-- 50 BB Bathem invades the Valley
+- 50 BB [Bathem](./people/individuals/bathem.md) invades the Valley
 - 10 BB - Sundeath
 - 1 BB - Bathem reforges tools of creation
 - 1 PB - Bathem becomes God

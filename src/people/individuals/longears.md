@@ -1,8 +1,6 @@
 # Long Ears
 
-Deceased
-
-Race: Bunny
+Race: [Bunny (Great)](../../races/bunnies.md)
 
 Long Ears was the general sent by [Bathem](./bathem.md) to battle [Julius Silvanus](./julius_silvanus.md) for control of [Bunearica](../../locations/bunearica.md).
 He defeated Julius and pushed the Rumans out of Bunearica entirely. He would then lead a campaign to weaken the Ruman Empire and repay the betrayal from the

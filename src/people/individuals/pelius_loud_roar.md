@@ -1,7 +1,5 @@
 # Pelius-Loud-Roar
 
-Deceased
-
 Race: Kobold
 
 A Kobold general who fought for the Rumans before returning to the Kobolds in the Valley. During the Ruman-Bunny Wars and Ruman Civil War he was convinced and funded by Bathem to fight alongside him

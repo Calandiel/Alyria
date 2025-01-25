@@ -1,6 +1,6 @@
 # Rabin Lagoheart
 
-Race: Bunny
+Race: [Bunny (Great)](../../races/bunnies.md)
 
 Rabin Lagoheart was a general under [Bathem](./bathem.md) who would rule Bathem's empire while Bathem sought the artifacts for his apotheosis.
 He had earned Bathem's trust through many years of service as a general, though not without his failings.

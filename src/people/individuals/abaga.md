@@ -1,7 +1,5 @@
 # Abaga of the Blackwood
 
-Deceased
-
 Race: [Centaur](../races/centaurs.md)
 
 Abaga of the Blackwood was a centaur warchief who would lead the united centaur warbands during the [Centaur Wars](../events/centaur_wars.md).

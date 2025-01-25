@@ -11,7 +11,7 @@ to temporary unification of the bunnies. The border federations often existed on
 as those clans not in the federation would then gather and assault it until a satisfactory level of decentralization
 had been achieved again. The only records of these federations and wars being preserved in family sagas.
 
-It is in this environment [Bathem](./bathem.md) would rise to prominence.
+It is in this environment [Bathem](./bathem.md) would rise to prominence and unite all the bunnies under a single Great tribe.
 
 During Bathem's journey to divinity, a number of bunnies would find themselves drawn to the lands of the [Kobold](./kobolds.md)-led
 Ruman governate in [the valley](../locations/the_valley.md). The fall of the Ruman Empire and increasing frequency of
@@ -23,7 +23,7 @@ The other bunnies remained under Bathem and while regional differences emerged t
 This began to change following Bathem's ascension and apotheosis. As he prepared for his journey to the gods realm,
 he traveled amongst all his lands giving [the endowment of the bunnies](endowment_of_the_bunnies.md).
 The effects of the blessings took many years to appear. But slowly and steadily the bunnies would divide themselves based
-on which blessing their ancestors had received. This would give rise to the Ashfurs, Bloodfurs, and Frostfurs.
+on which blessing their ancestors had received. This would give rise to the Ashfurs, Bloodfurs, and Frostfurs (known collectively as the Continental Bunnies).
 
 ## Frostfurs
 Frostfurs at first seem to lack any distinguishing coloration at first, until the light catches just right and the subtle blue

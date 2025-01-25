@@ -1,7 +1,5 @@
 # Shurgi
 
-Deceased
-
 Race: Human
 
 Shurgi was the [Sarukan](../../factions/sarukan.md) Tasohim at the head of the invasion of the [Ruman Empire](../../factions/rum.md). He would wound [Bathem](./bathem.md)

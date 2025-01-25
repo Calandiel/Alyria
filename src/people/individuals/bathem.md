@@ -1,19 +1,21 @@
 # Bathem
 
-Race: Disputed ([Bunny](../../races/bunnies.md))
+Race: Disputed ([Bunny (Great)](../../races/bunnies.md))
 
 Current Location: [God Realm](../../locations/god_realm.md)
 
 ## Bathem's Rising
-From what we can tell, Bathem was born to a minor clan[^1] and trained as a warrior.
+From what we can tell, Bathem was born to a minor clan and trained as a warrior.
 He became clanless as a young adult, likely from his clan being destroyed in war.
-He would be taken in by the Wolfspear[^2] clan along the Northeast coast of Bunearica.
+He would be taken in by the Wolfspear clan[^1] along the Northeast coast of Bunearica.
 His clan fought with another during a particularly cold winter.
 At the end of a battle, he stood shivering while looking out at the sea.
 The cold sea winds buffeting his blood soaked body.
 The winter's chill had frozen the sea. He walked out onto the ice until he reached the Northern peninsula.
 He never spoke of what happened during this journey but, he returned with a bloody vengeance.
 Newly armed with magics and his famed wolf, known now as Centaur's bane.
+
+[^1]: The Wolfspear clan was originally known as the Shorthopper clan, but they were the first to learn to ride wolves on Bathem's return and made it their namesake to honor him.
 
 The Wolfspear Saga describes the event:
 "The Bunaeric clans are as old as the storytellers' consensus can remember.
@@ -29,7 +31,7 @@ A gathering of all the clans was called, and Bathem would tell them his vision.
 Tomorrow's stories would not look like Yesterday's."
 
 He trained the bunnies to ride wolves, which we mastered during the [Centaur Wars](../../events/centaur_wars.md).
-He appointed [Long Ears]() to lead a grand host against the Rumans after their betrayal, while he led another host east to tame the [Valley](../../locations/the_valley.md).
+He appointed [Long Ears](./longears.md) to lead a grand host against the Rumans after their betrayal, while he led another host east to tame the [Valley](../../locations/the_valley.md).
 
 ## Bathem's Saga
 1. Rising

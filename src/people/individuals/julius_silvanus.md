@@ -1,5 +1,4 @@
 # Julius Silvanus
-Deceased
 
 Race: Human
 

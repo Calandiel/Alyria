@@ -34,6 +34,7 @@ He trained the bunnies to ride wolves, which we mastered during the [Centaur War
 He appointed [Long Ears](./longears.md) to lead a grand host against the Rumans after their betrayal, while he led another host east to tame the [Valley](../../locations/the_valley.md).
 
 ## Bathem's Saga
+```
 1. Rising
 My banners waved and my spears gleamed, 
 From Gentle-Green bloody rivers streamed. 
@@ -46,7 +47,7 @@ With great effort our new capital stood.
 Long Ears returned with salt and plunder. 
 We celebrated and grew great in number. 
 And sons of the South were torn asunder. 
-Under headsman’s axe their blood did splash, 
+Under headsman's axe their blood did splash, 
 Causing their crops to turn to ash. 
 My fur soaked red, I stared into the divine. 
 The ritual malfunctioned through foreign design, 
@@ -98,60 +99,68 @@ Together we opened the gates at Salatun,
 And there we beheld The-Chill-Of-The-Moon.
 But taking it in hand, we felt a great shudder,
 And rushing out we saw as the sun began to sputter.
-
+```
 ## Bathem's Saga Context
 Each line corresponds to the same line in the saga.
-
-1. 
+```
+1. Rising
 Bathem arrives in the Valley at the head of a great host
 The fort-city of Gentle-Green became a battlefield of bunnies vs elves, humen, and kobolds
 The spoils of war fed our fertility festival +30k population
 Long Ears fought an off-map campaign against the humans in Gaul
 The elves used magic to create a wall of magic woods
 Bathem built his capital in a gap between the magic wood
-2. 
+
+2. Ascension
 Self-explanatory
 Another fertility festival was held +98k population
-Ruman’s were taken as slaves and used for blood rituals
-Over 300k Ruman’s were sacrificed for the 3 great rituals, the first ritual was a blizzard to weaken Gentle-Green
+Ruman's were taken as slaves and used for blood rituals
+Over 300k Ruman's were sacrificed for the 3 great rituals, the first ritual was a blizzard to weaken Gentle-Green
 The second ritual destroyed the crops of the Empire to prepare it for another invasion
 The third ritual saw Bathem use 250,000 Ruman sacrifices to acquire divinity
 Elven terror-mages and Kobold anti-mages worked against the completion of the ritual
-Though the ritual wasn’t successful, Bathem became a demi-god, to complete his ascension he would need to retrieve three artifacts related to the magics the bunnies practice: ash, frost, and blood
-3. 
+Though the ritual wasn't successful, Bathem became a demi-god, to complete his ascension he would need to retrieve three artifacts related to the magics the bunnies practice: ash, frost, and blood
+
+3. Southwards
 Pelius was a kobold varangian who fought for the Rumans in the past, he was convinced to join the bunnies to rebuild the Ruman empire
 Gaul and the Passes are the Imperial provinces to the West and South-West of the Valley where the saga begins.
 Long Ears sacked and burned Mindullum at the Southern edge of the Passes during his campaign, Rabin was Bathem's second in command
 The Elven terror-mages created wooden golems to bolster their numbers, but a group had broken away. Leena was Bathem's court druid and had become a dragon rider and so was sent to convince the wayward golems to fight the Elves
-4. 
+
+4. Betrayal
 Pelius and Rabin defeated the warlord of Hispania on their way to Rum
 Long Ears was bribed by the Kobolds to murder Pelius for his betrayal
 Long Ears fought the forces of Rabin and Pelius and killed Pelius in combat
 But Rabin defeated Long Ears' force and killed his fellow general
-5. 
+
+5. Descent
 The Kobolds had colonized the isle of Britonne and launched a naval expedition in the northern delta of the great river of Gaul, exploiting bunnies' lack of knowledge of ships
 The Sarukan empire defeated the warlord of Eastern Rum and reached the border with the bunnies on their way to Rum
 Bathem believed with his demi-god powers and the combined might of all his armies he could defeat the Sarukan and seize Rum where the blood artifact lay
 But his armies had been weakened by infighting and the efforts of the kobolds and elves and he was defeated
-6. 
+
+6. Quest
 Before the events of the game the bunnies were weak due to division and infighting, Bathem had united them under one banner
 Rabin was placed in charge of the bunnies while Bathem went away to seek the blood artifact
 The-Heart-Of-An-Empire was the artifact representing bunny blood magic
 Securing the heart would once again see Bathem's power enhanced
-7. 
+
+7. Famine
 The defeat of Bathem and the bunny horde made the Kobolds and Elves turn their attention towards Sarukan
 Self-explanatory
 The spell turned the waters of the rivers into poisonous blood causing a great famine to sweep the lands
 With the collapse of the empire, the kobolds no longer saw a reason to be enemies with Bathem and his bunnies and traded the delta back in exchange for trading rights
-8. 
+
+8. Restoration
 There's only 3 lines of context it was mostly prose
 Bathem's popularity had fallen greatly because of his defeat and so was unaided by his people
 Bathem used his power and the artifact to cleanse the rivers of all the lands
 Which restored his people's faith in him
-9.
+
+9. Calamity
 Tevi Cottontail was a member of an early cult centered around worshipping Bathem before Bathism was founded.
 They sailed to the western most point of the continent where The Chill Of The Moon was found.
 The expedition had to spend weeks opening the magical ice gate of the shrine.
 The Chill Of The Moon was taken by Bathem.
-When Bathem took it in his hand, Aelys Frostkeep ordered the destruction of The Flames Of The Sun beginning the Sundeath
-Continued.
+When Bathem took it in his hand, Aelys Frostkeep ordered the destruction of The Flames Of The Sun beginning the Sundeath.
+```

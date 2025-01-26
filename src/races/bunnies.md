@@ -11,7 +11,7 @@ to temporary unification of the bunnies. The border federations often existed on
 as those clans not in the federation would then gather and assault it until a satisfactory level of decentralization
 had been achieved again. The only records of these federations and wars being preserved in family sagas.
 
-It is in this environment [Bathem](./bathem.md) would rise to prominence and unite all the bunnies under a single Great tribe.
+It is in this environment [Bathem](..people/individuals/bathem.md) would rise to prominence and unite all the bunnies under a single Great tribe.
 
 During Bathem's journey to divinity, a number of bunnies would find themselves drawn to the lands of the [Kobold](./kobolds.md)-led
 Ruman governate in [the valley](../locations/the_valley.md). The fall of the Ruman Empire and increasing frequency of

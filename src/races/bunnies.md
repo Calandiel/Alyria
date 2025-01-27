@@ -58,8 +58,8 @@ The Ashfurs practice keeping Wyverns descended from [Lena Warmheart's](../people
 Wyvernriders make up the elite ranks of Ashfur cavalry and the riders pair bond with their wyvern as Lena had with her dragon.
 The Ashfurs of Dargia have found their wyvern adept swimmers and use them to fish instead of using ships.
 
-The Ashfurs follow [Bunnist-Bathism](../faiths/bathism.md), with a religious leaning. The Ashfurs on Dargia have begun to believe
-in an alternative view, known as [Phoenix-Bathism](../faiths/bathism.md), that Bathem isn't lost to the God realm. He wages a war there
+The Ashfurs follow [Bunnist-Bathism](../faiths/bathism.md), with a religious leaning. Ashfurs on Dargia have begun to believe
+in an alternative view, known as [Phoenixian-Bathism](../faiths/bathism.md), that Bathem isn't lost to the God realm. He wages a war there
 and when it is conquered he will return to guide the bunnies in the mortal realm.
 
 ## Bloodfurs
@@ -157,12 +157,6 @@ This is unlike the Wyvernriders who pair bond with their wyvern.
 
 ### Dragonriders
 There has only been one bunny dragon rider, [Lena "Dragontamer" Warmheart](../people/individuals/lena_warmheart.md).
-She was given the egg stolen by [Rabin](../people/individuals/rabin_lagoheart.md) to care for until it hatched and grew.
-Lena would pair bond with the dragon and the two would rarely be apart for long.
-Later in life, Lena would learn her dragon sought to mate and they would search for another dragon.
-Though the dragon they found was able to breed, it seems the two were different species as the offspring lacked wings
-and grew to be much smaller. They were cared for just the same and would come to be the ancestors of the wyverns
-that make up the elite of [Ashfur]() cavalry.
 
 ### Wyvernriders / Dragoons
 The Wyvernriders ride the descendants of Lena's dragon in battle. Though the wyverns are rarer and slower,

@@ -4,6 +4,24 @@ Race: Disputed ([Bunny (Great)](../../races/bunnies.md))
 
 Current Location: [God Realm](../../locations/god_realm.md)
 
+## Major Events
+- 88 BB Born
+- 72 BB His birth clan is destroyed
+- 71 BB He joins the Shorthopper clan (Now Wolfspear)
+- 68 BB Bathem left to wander the frost fields.
+- 67 BB Bathem returns from the frost fields and unites the bunnies.
+- 56 BB The [Centaur Wars](../../events/centaur_wars.md) begin.
+- 50 BB Enters the [Valley](../../locations/the_valley.md).
+- 45 BB Summons a massive blizzard in the Valley.
+- 39 BB Causes [Ruman](../../factions/rum.md) crops to turn to ash.
+- 33 BB Begins the process of apotheosis with massive blood magic ritual.
+- 13 BB Loses in battle to [Shurgi](./shurgi.md)
+- 12 BB Acquires [The-Heart-Of-An-Empire](../../artifacts/the_heart_of_an_empire.md)
+- 11 BB Purifies the poisonous blood rivers made by Shurgi.
+- 10 BB Acquires [The-Chill-Of-The-Moon](../../artifacts/the_chill_of_the_moon.md)
+- 1 BB Recreates [The-Flames-Of-The-Sun](../../artifacts/the_flames_of_the_sun.md)
+- 1 PB Apotheosis
+
 ## Bathem's Rising
 From what we can tell, Bathem was born to a minor clan and trained as a warrior.
 He became clanless as a young adult, likely from his clan being destroyed in war.

@@ -1,8 +1,8 @@
 # Bunnies
 
 The Bunny tribes were once all considered one group. They were divided into separate clans based on familial ties, oaths of loyalty,
-and slavery. While exact numbers aren't available, its believed there may have been between 300 and 500 such clans dotted along
-the Northern coast and great river of [Bunearica](../locations/bunearica.md), with populations somewhere between 100 and 1000 members
+and slavery. While exact numbers aren't available, its believed there may have been between 200 and 400 such clans dotted along
+the Northern coast and great river of [Bunearica](../locations/bunearica.md), with populations somewhere between 100 and 2000 members
 depending on the age, power and prestige of the family leading the clan. The infighting among these clans was common and fierce.
 The violence in Bunearica was so great it caused even the bunnies' high fecundity to be unable to grow the population for over a hundred years.
 [Centaur warbands](./centaurs.md) and the encroachment of [human](./humans.md) settlers from what would become the

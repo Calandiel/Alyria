@@ -4,7 +4,7 @@
 `AB` - after Bathem
 
 - ~15000 BB - dragons are cursed by [The Moth](./people/gods/the_moth.md)
-- 50 BB [Bathem](./people/individuals/bathem.md) invades the Valley
+- 40 BB [Bathem](./people/individuals/bathem.md) invades the Valley
 - 13 BB - [Ugusta](./locations/city_ugusta.md) falls to [Rabin](./people/individuals/rabin_lagoheart.md) and [Pelius](./people/individuals/pelius_loud_roar.md), [Long Ears'](./people/individuals/longears.md) betrayal
 - 10 BB - Sundeath
 - 1 BB - Bathem reforges tools of creation

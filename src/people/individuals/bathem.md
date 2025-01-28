@@ -5,16 +5,16 @@ Race: Disputed ([Bunny (Great)](../../races/bunnies.md))
 Current Location: [God Realm](../../locations/god_realm.md)
 
 ## Major Events
-- 88 BB Born
-- 72 BB His birth clan is destroyed
-- 71 BB He joins the Shorthopper clan (Now Wolfspear)
-- 68 BB Bathem left to wander the frost fields.
-- 67 BB Bathem returns from the frost fields and unites the bunnies.
-- 56 BB The [Centaur Wars](../../events/centaur_wars.md) begin.
-- 50 BB Enters the [Valley](../../locations/the_valley.md).
-- 45 BB Summons a massive blizzard in the Valley.
-- 39 BB Causes [Ruman](../../factions/rum.md) crops to turn to ash.
-- 33 BB Begins the process of apotheosis with massive blood magic ritual.
+- 78 BB Born
+- 62 BB His birth clan is destroyed
+- 61 BB He joins the Shorthopper clan (Now Wolfspear)
+- 58 BB Bathem left to wander the frost fields.
+- 57 BB Bathem returns from the frost fields and unites the bunnies.
+- 46 BB The [Centaur Wars](../../events/centaur_wars.md) begin.
+- 40 BB Enters the [Valley](../../locations/the_valley.md).
+- 34 BB Summons a massive blizzard in the Valley.
+- 29 BB Causes [Ruman](../../factions/rum.md) crops to turn to ash.
+- 23 BB Begins the process of apotheosis with massive blood magic ritual.
 - 13 BB Loses in battle to [Shurgi](./shurgi.md)
 - 12 BB Acquires [The-Heart-Of-An-Empire](../../artifacts/the_heart_of_an_empire.md)
 - 11 BB Purifies the poisonous blood rivers made by Shurgi.

@@ -1,3 +1,4 @@
+# Blood Trade
 The Blood Trade involved the mass enslavement and execution of people for use in blood magic rituals.
 While primitive forms of blood magic had been used in Adanican society for millennia,
 its methods were improved and had become widespread during the time of [Bathem](../people/individuals/bathem.md).

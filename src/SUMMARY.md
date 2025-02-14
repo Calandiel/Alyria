@@ -66,6 +66,7 @@
 		- [Zzabur-Shulgi](./people/individuals/zzabur_shulgi.md)
 - [Races](./races/list.md)
 	- [Bunnies](./races/bunnies.md)
+	- [Bunny Clans](./races/bunnies/bunnyclans.md)
 	- [Dragons](./races/dragons.md)
 	- [Elves](./races/elves.md)
 	- [Humans](./races/humans.md)
